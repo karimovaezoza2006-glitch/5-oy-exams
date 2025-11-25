@@ -6,7 +6,7 @@ import "aos/dist/aos.css";
 import location from "../img/location.svg";
 import phone from "../img/phone.svg";
 import mail from "../img/mail.svg";
-import facebook from "../img/Facebook.svg";
+// import facebook from "../img/Facebook.svg";
 import twitter from "../img/twitter.svg";
 import instagram from "../img/instagram.svg";
 import youtube from "../img/youtube.svg";
@@ -80,7 +80,7 @@ const Footer = () => {
 
           {/* Social Icons */}
           <div className="flex items-center gap-4 text-xl">
-            <img src={facebook} className="w-6" />
+            {/* <img src={facebook} className="w-6" /> */}
             <img src={twitter} className="w-6" />
             <img src={instagram} className="w-6" />
             <img src={youtube} className="w-6" />

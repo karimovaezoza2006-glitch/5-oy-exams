@@ -10,7 +10,7 @@ const Showcase = () => {
   }, []);
 
   return (
-    <section className="max-w-[1400px] mx-auto px-4 sm:px-10 py-10">
+    <section className="max-w-[1400px] mx-auto px-4 sm:px-10 ">
       <div className="flex flex-col-reverse lg:flex-row items-center justify-between gap-10">
 
         {/* LEFT TEXT */}

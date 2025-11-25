@@ -6,7 +6,7 @@ import "aos/dist/aos.css";
 import location from "../img/location.svg";
 import phone from "../img/phone.svg";
 import mail from "../img/mail.svg";
-import facebook from "../img//facebook.svg";
+import facebook from "../img/facebook.svg";
 import twitter from "../img/twitter.svg";
 import instagram from "../img/instagram.svg";
 import youtube from "../img/youtube.svg";
